@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "5e1426337eee118c171f90ec05a1306cbbcc11aba9790551dd5dc0f8d3aab056"
+build_start_time: [1669698912, 114593029]
+build_end_time: [1669698912, 164558887]
+inputs:
+  "/Users/mienpv/AndroidStudioProjects/MyKMMApp/iosApp/iosApp/ContentView.swift": !private [1669540668, 6966590]
+  "/Users/mienpv/AndroidStudioProjects/MyKMMApp/iosApp/iosApp/iOSApp.swift": !private [1669540668, 8553504]
